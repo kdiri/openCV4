@@ -794,7 +794,7 @@ version = "0.34.2"
 test = ["pytest (>=3.0.0)", "pytest-cov"]
 
 [metadata]
-content-hash = "3fb3f86c10f13390e0925a0b743e5a8ce6f5177908e8a5993f77887805b98232"
+content-hash = "7f36d72bbbb3ea3b7a55dd7baeae4e6150e3b1b6531fc55e07dae75729c07bc8"
 python-versions = "^3.8"
 
 [metadata.files]
