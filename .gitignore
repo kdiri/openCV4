@@ -111,6 +111,7 @@ env.bak/
 venv.bak/
 .venv*
 .idea*
+978*.pdf
 
 # Spyder project settings
 .spyderproject
