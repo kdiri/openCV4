@@ -146,6 +146,14 @@ version = "19.21.0"
 
 [[package]]
 category = "main"
+description = "Docutils -- Python Documentation Utilities"
+name = "docutils"
+optional = false
+python-versions = ">=2.7, !=3.0.*, !=3.1.*, !=3.2.*, !=3.3.*, !=3.4.*"
+version = "0.16"
+
+[[package]]
+category = "main"
 description = "Recognize faces from Python or from the command line"
 name = "face-recognition"
 optional = false
@@ -794,7 +802,7 @@ version = "0.34.2"
 test = ["pytest (>=3.0.0)", "pytest-cov"]
 
 [metadata]
-content-hash = "7f36d72bbbb3ea3b7a55dd7baeae4e6150e3b1b6531fc55e07dae75729c07bc8"
+content-hash = "265c1a2e4a8b14a345c352fe18129036f7c3a5a330bf57edb77c66f4cc902c77"
 python-versions = "^3.8"
 
 [metadata.files]
@@ -850,6 +858,10 @@ decorator = [
 ]
 dlib = [
     {file = "dlib-19.21.0.tar.gz", hash = "sha256:e79d8e14171b8446d6b5434d7dc3b44a23ca05c8f99266acaf731cc7b268edb6"},
+]
+docutils = [
+    {file = "docutils-0.16-py2.py3-none-any.whl", hash = "sha256:0c5b78adfbf7762415433f5515cd5c9e762339e23369dbe8000d84a4bf4ab3af"},
+    {file = "docutils-0.16.tar.gz", hash = "sha256:c2de3a60e9e7d07be26b7f2b00ca0309c207e06c100f9cc2a94931fc75a478fc"},
 ]
 face-recognition = [
     {file = "face_recognition-1.3.0-py2.py3-none-any.whl", hash = "sha256:c543e91c8cfbf24d19db04e511ebbddcb23894bcee510133729ee78e9f4b5e83"},
