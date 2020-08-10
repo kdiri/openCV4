@@ -112,6 +112,8 @@ venv.bak/
 .venv*
 .idea*
 978*.pdf
+Untitled*
+.ipynb_checkpoints/
 
 # Spyder project settings
 .spyderproject
