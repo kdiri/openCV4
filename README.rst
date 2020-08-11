@@ -7,5 +7,5 @@ Book codes are available on `github <https://github.com/PacktPublishing/Masterin
 
 PS.
 ===
-Will not proceed with this book anymore due to diverse installation/execution errors. OpenCV lib of python doesn't seem very powerful for now.
+Will not proceed with this book anymore due to diverse installation/execution errors. OpenCV lib for python doesn't seem very robust currently.
 Hope to come back to this topic one day..
