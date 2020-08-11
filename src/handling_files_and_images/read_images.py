@@ -1,5 +1,5 @@
 """
-.. module:: src.handling_files_and_images.sysargv_python
+.. module:: src.handling_files_and_images.read_images
    :synopsis: Read images using openCV that are passed as argument
 """
 
